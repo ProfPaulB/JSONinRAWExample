@@ -1,0 +1,24 @@
+{
+	"student-grades": {
+		"name": "Bugs Bunny",
+		"full-time": true,
+		"courses": [
+			{
+				"name": "Android", 
+				"grade": "A"
+			},
+			{
+				"name": "iOS", 
+				"grade": "B+"
+			},
+			{
+				"name": ".Net", 
+				"grade": "B"
+			},
+			{
+				"name": "Capstone", 
+				"grade": "Pass"
+			}
+		]
+	}
+}
