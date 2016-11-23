@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON in RAW Example</string>
+    <string name="button_load_grades">Load Grades</string>
+    <string name="text_student_info">Student Info...</string>
+</resources>
